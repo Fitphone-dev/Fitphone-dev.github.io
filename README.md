@@ -1,6 +1,5 @@
 ---
-layout: default
-title: Operation ZAR | Privacy Policy
+title: Fitphone | Privacy Policy
 ---
 
 Last updated: November 23, 2021
