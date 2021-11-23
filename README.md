@@ -1,6 +1,5 @@
----
-title: Fitphone | Privacy Policy
----
+Fitphone | Privacy Policy
+=========================
 
 Last updated: November 23, 2021
 
